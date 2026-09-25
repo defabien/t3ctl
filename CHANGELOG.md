@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.6.1](https://github.com/Goobles/t3ctl/compare/v0.6.0...v0.6.1) (2026-09-25)
+
+
+### Bug Fixes
+
+* refuse writes to a server another T3 server has superseded ([2399219](https://github.com/Goobles/t3ctl/commit/2399219a26b3d89780290d2cd77bea45cef2584f))
+* refuse writes to a server that another T3 server has superseded ([f588d56](https://github.com/Goobles/t3ctl/commit/f588d5654ac15510ada988b5358c69dafb607fb1))
+* report a restarted server as moved, not as a second server ([02b4e14](https://github.com/Goobles/t3ctl/commit/02b4e147f4d57ea1ce8a3c6c4cf463f90c232993))
+
 ## [0.6.0](https://github.com/Goobles/t3ctl/compare/v0.5.0...v0.6.0) (2026-09-14)
 
 
